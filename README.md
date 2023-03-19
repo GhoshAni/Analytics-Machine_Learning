@@ -4,3 +4,6 @@ Created the repository to analyse variaous datasets and Machine Learning and sta
 
 Dataset : https://www.kaggle.com/datasets/vikrishnan/boston-house-prices
 
+https://www.kaggle.com/datasets/yasserh/bmidataset
+
+
