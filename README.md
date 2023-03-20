@@ -7,6 +7,6 @@ Dataset1 : https://www.kaggle.com/datasets/vikrishnan/boston-house-prices
 Dataset2 : https://www.kaggle.com/datasets/yasserh/bmidataset
 
 
-Random Forest Technical regernce : https://rdcu.be/c70pl
+Random Forest Technical referernce : https://rdcu.be/c70pl
 
 
